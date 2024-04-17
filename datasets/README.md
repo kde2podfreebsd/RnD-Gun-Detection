@@ -1,4 +1,4 @@
-Data
+Open-source datasets
 
 * <del> https://universe.roboflow.com/ali-yvvte/self-collected-1b1c8</del> done
 * https://universe.roboflow.com/pichon-corp/new_cctv_youtube
